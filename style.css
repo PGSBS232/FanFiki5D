@@ -1,0 +1,43 @@
+p1 {
+    text-align: center;
+    color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+    color: pink;
+}
+
+p {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    text-align: center;
+    color: pink;
+}
+
+p2 {
+    color: aquamarine;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: pink;
+}
+
+p3 {
+    color: aquamarine;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: pink;
+}
+
+body {
+    background-color: blueviolet;
+}
